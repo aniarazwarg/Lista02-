@@ -1,0 +1,17 @@
+using System;
+/*Construa um algoritmo que leia o valor de uma conta de luz (CL) e, caso o valor seja maior que R$ 50,00 apresente a mensagem: “Você está gastando muito”. Caso contrário não exiba mensagem nenhuma.*/
+class Program {
+  public static void Main (string[] args) {
+    int numdig;
+    Console.Write ("Qual o valor da sua conta de luz? R$ ");
+    numdig = int.Parse(Console.ReadLine());
+      if (numdig>= 50.00)
+      {
+        Console.WriteLine("Você está gastando muito.");
+      }
+    else
+    {
+      Console.WriteLine();
+    }
+  }
+}
