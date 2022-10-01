@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Lista02Ex01/main.csproj",
+      "projectUniqueName": "/home/runner/Lista02ex07/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Lista02Ex01/main.csproj",
+      "projectPath": "/home/runner/Lista02ex07/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Lista02Ex01/obj/",
+      "outputPath": "/home/runner/Lista02ex07/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KgUlRbAJBbfPlbSMZpAYc5PSzlfixCFaRnhOMksIxoIgVzOjSAHhuHxMJgx6nVeAUIp6QZONx8pdUbl00+9p3w==",
+  "dgSpecHash": "6R6dDPC2VO0/AX8Br5RSf6hmHw1XuzGwTwd8zju91i3lS77zj2+tCXHeZAxVgqiEO8BLXtF/WwaIs8wKQK/38A==",
   "success": true,
-  "projectFilePath": "/home/runner/Lista02Ex01/main.csproj",
+  "projectFilePath": "/home/runner/Lista02ex07/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
